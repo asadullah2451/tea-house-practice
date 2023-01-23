@@ -4,6 +4,9 @@
 .custom-style-b-g-g-yellow-red {
   background-image: linear-gradient(to right, #ff8938, red) !important;
 }
+.custom-style-b-g-g-yellow-red-footer{
+  background-image: linear-gradient(to right, #ff88381f, rgba(255, 0, 0, 0.085)) !important;
+}
 
 .custom-grid-great-tea {
   display: grid;
@@ -29,3 +32,4 @@
   grid-area: 3 / 2 / 4 / 3;
   background-image: linear-gradient(to right, #61616143, #ff883800);
 }
+
